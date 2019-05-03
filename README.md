@@ -1,1 +1,3 @@
-# Support-Vector-Machine-SVM-
+# Support-Vector-Machine-SVM
+
+<img src='SVM_margin.png'>
